@@ -1,0 +1,7 @@
+1) github repo - https://github.com/
+    Branches - mster, develop
+2) VS code - https://code.visualstudio.com
+3) NodeJS - https://nodejs.org/en/ - get LTS
+4) Angular CLI
+    Once installed NodeJS, run npm install -g @angular/cli
+        This installs angular CLI globally to access system wide.
