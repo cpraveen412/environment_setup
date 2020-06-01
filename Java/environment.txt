@@ -1,0 +1,14 @@
+1) github repo - https://github.com/
+    Branches - mster, develop
+2) mySQl database - https://dev.mysql.com/downloads/mysql/ 
+    Preferred On a VM
+        Requirements for VM
+            1) virtual box
+            2) Ubuntu 16.04
+            3) putty (to connect to VM)
+            4) Ram 2GB
+            5) 2 CPU
+            6) Disk 30GB
+3) IDE to develop - Any IDE of your comfort. (Eclipse, VS code, IntelliJ)
+4) Tomcat server - 8 or 9 - https://tomcat.apache.org
+5) Docker CE runtime - https://hub.docker.com/editions/community/docker-ce-desktop-windows/
