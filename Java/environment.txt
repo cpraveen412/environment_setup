@@ -3,9 +3,9 @@
 2) mySQl database - https://dev.mysql.com/downloads/mysql/ 
     Preferred On a VM
         Requirements for VM
-            1) virtual box
-            2) Ubuntu 16.04
-            3) putty (to connect to VM)
+            1) virtual box - https://www.virtualbox.org
+            2) Ubuntu 16.04 - http://releases.ubuntu.com/16.04.6/ubuntu-16.04.6-server-amd64.iso
+            3) putty (to connect to VM) - https://the.earth.li/~sgtatham/putty/latest/w64/putty.exe
             4) Ram 2GB
             5) 2 CPU
             6) Disk 30GB
