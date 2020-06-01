@@ -1,5 +1,5 @@
 1) github repo - https://github.com/
-    Branches - mster, develop
+    Branches - master, develop
 2) VS code - https://code.visualstudio.com
 3) NodeJS - https://nodejs.org/en/ - get LTS
 4) Angular CLI
