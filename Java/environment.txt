@@ -1,6 +1,7 @@
 1) github repo - https://github.com/
     Branches - master, develop
 2) mySQl database - https://dev.mysql.com/downloads/mysql/ 
+   Adding Users - https://linuxize.com/post/how-to-create-mysql-user-accounts-and-grant-privileges/#:~:text=A%20user%20account%20in%20MySQL,user_password%20with%20the%20user%20password.
     Preferred On a VM
         Requirements for VM
             1) virtual box - https://www.virtualbox.org
@@ -9,6 +10,8 @@
             4) Ram 2GB
             5) 2 CPU
             6) Disk 30GB
+        Setup instructions
+            https://medium.com/@pierangelo1982/setting-ssh-connection-to-ubuntu-on-virtualbox-af243f737b8b
 3) IDE to develop - Any IDE of your comfort. (Eclipse, VS code, IntelliJ)
 4) Tomcat server - 8 or 9 - https://tomcat.apache.org
 5) Docker CE runtime - https://hub.docker.com/editions/community/docker-ce-desktop-windows/
