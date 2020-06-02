@@ -12,3 +12,6 @@
 3) IDE to develop - Any IDE of your comfort. (Eclipse, VS code, IntelliJ)
 4) Tomcat server - 8 or 9 - https://tomcat.apache.org
 5) Docker CE runtime - https://hub.docker.com/editions/community/docker-ce-desktop-windows/
+6) Maven for building code - https://downloads.apache.org/maven/maven-3/3.6.3/binaries/apache-maven-3.6.3-bin.zip
+7) Java Development Kit (JDK) - https://www.oracle.com/java/technologies/javase-jdk8-downloads.html
+        Create oracle free account to download
